@@ -1,0 +1,419 @@
+/*navber*/
+header{
+  background-color:silver!important;
+  width: 100%;
+}
+.padding{
+  padding: 10px 30px;
+}
+
+nav a img{
+  width: 40%;
+}
+.navbar a{
+  color:black!important;
+  background-color: silver!important;
+  font-size: 16px!important;
+  padding-right:10px!important; 
+}
+.navbar a :hover{
+  color: red;
+}
+.dropdown-menu{
+  border: none;
+   background-color: silver;
+}
+.btn-outline-success {
+    color: black!important;
+    border-color: red!important;
+    background-color: red!important;
+}
+/*Wrriting-section*/
+.Wrriting-section{
+  background-color:silver;
+  width: 100%;
+}
+.Wrriting-section p{
+  font-size: 20px;
+}
+
+
+/*designer*/
+/*Bibi*/
+.overlay-1 {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color:silver;
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: .5s ease;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.col-md-5:hover .overlay-1 {
+  bottom: 0;
+  height: 100%;
+}
+
+.Bibi{
+   width: 100%;
+   height: 600px;
+   background-image: url('The_BiBi_(3391760678).jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+}
+.Bibi h5{
+  color:black;
+  text-align: center;
+  font-size: 50px;
+}
+.Bibi p{
+  color:black;
+  font-size: 16px;
+  text-align:center;
+}
+.Bibi ul{
+  list-style: none;
+}
+.Bibi ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+/*Biplob Saha*/
+.overlay-2 {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color:#FEFEFE;
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: .5s ease;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.col-md-5:hover .overlay-2 {
+  bottom: 0;
+  height: 100%;
+}
+
+.Biplob{
+   width: 100%;
+   height: 600px;
+   background-image: url('Biplob Saha.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+}
+.Biplob h5{
+  color:black;
+  text-align: center;
+  font-size: 50px;
+}
+.Biplob p{
+  color:black;
+  font-size: 18px;
+  text-align:center;
+}
+.Biplob h6{
+  color:black;
+  text-align: center;
+  font-size: 25px;
+}
+
+.Biplob ul{
+  list-style: none;
+}
+.Biplob ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+
+/*Maheen Khan*/
+.overlay-3 {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color:#ABA7A8;
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: .5s ease;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.col-md-5:hover .overlay-3 {
+  bottom: 0;
+  height: 100%;
+}
+
+.Maheen{
+   width: 100%;
+   height: 600px;
+   background-image: url('Maheen Khan.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+}
+.Maheen h5{
+  color:black;
+  text-align: center;
+  font-size: 50px;
+}
+.Maheen p{
+  color:black;
+  font-size: 18px;
+  text-align:center;
+}
+.Maheen h6{
+  color:black;
+  text-align: center;
+  font-size: 25px;
+}
+
+.Maheen ul{
+  list-style: none;
+}
+.Maheen ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+
+/*Asma */
+.overlay-4 {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color:#27303E;
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: .5s ease;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.col-md-5:hover .overlay-4 {
+  bottom: 0;
+  height: 100%;
+}
+
+.Asma {
+   width:100%;
+   height: 600px;
+   background-image: url('Asma-Sultana.jpg');
+   background-position:center;
+   background-repeat: no-repeat;
+}
+.Asma  h5{
+  color:#ECE1C3;
+  text-align: center;
+  font-size: 50px;
+}
+.Asma   p{
+  color:#ECE1C3;
+  font-size: 16px;
+  text-align:center;
+}
+.Asma  h6{
+  color:#ECE1C3;
+  text-align: center;
+  font-size: 25px;
+}
+
+.Asma  ul{
+  list-style: none;
+}
+.Asma ul li a {
+  text-decoration: none;
+  color:#ECE1C3;
+  font-size: 16px;
+}
+.top{
+  width: 98%;
+}
+.top h2 {
+    text-align: center;
+    padding: 0px 0px 20px 0px;
+    font-size: 45px;
+    color: #0e0f10;
+    position: relative;
+    margin-bottom: -26px;
+}
+.border {
+    border: 1px solid black!important;
+    height: 2px;
+    margin: 20px auto 20px;
+    position: relative;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+/*about*/
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color:#2A2744;
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: .5s ease;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.col-md-3:hover .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+
+
+.Rang{
+   height: 600px;
+   background-image: url('rang-bangladesh.jpg');
+   background-position: center;
+   
+}
+.Rang h2{
+  background-image: url('Rang.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  color:#0F75BD;
+  text-align: center;
+  font-size: 40px;
+}
+.Rang p{
+  color:red;
+  font-size: 16px;
+  text-align:center;
+}
+
+
+.shadakalo{
+   height: 600px;
+   background-image: url('18918565894.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.shadakalo h5{
+  background-image: url('sada-kalo.jpg');
+  background-position: center;
+  color:black;
+  text-align: center;
+  font-size: 40px;
+}
+.shadakalo p{
+  color:white;
+  font-size: 16px;
+  text-align:center;
+}
+
+.Dorjibari{
+   height: 600px;
+   background-image: url('Dorjibari.jpg');
+   background-position: center;
+}
+.Dorjibari h5{
+  background-image: url('Dorjibari.png');
+  background-position:center;
+  background-repeat: no-repeat;
+  color:black;
+  text-align: center;
+  font-size: 50px;
+}
+.Dorjibari p{
+  color:white;
+  font-size: 15px;
+  text-align:center;
+}
+
+/*models*/
+.top-models{
+   padding: 50px 0;
+}
+.top-models h2{
+  font-size:50px;
+  text-align: center; 
+  margin-top:40px;
+  color:black;
+}
+.top-models h2:hover{
+  color:red;
+}
+
+.top-models img{
+  width: 100%;
+  
+}
+.male-model h3{
+  color:#CE654F;
+  font-size: 30px;
+}
+.male-model ol li {
+  color:#64203B;
+  font-size: 20px;
+}
+
+.male-model ol li:hover{
+  color:black;
+  font-size: 20px;
+}
+
+.female-model h3{
+  color:#B8194D;
+  font-size: 30px;
+}
+.female-model ol li {
+  color:#387069;
+  font-size: 20px;
+}
+
+.female-model ol li:hover{
+  color:red;
+  font-size: 20px;
+}
+
+/*footer*/
+.footer{
+    text-align: center;
+    background-color:silver;
+    padding: 30px 0;
+}
+
+.footer h5 {
+    font-size: 20px;
+    color:black;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 7px;
+    margin-bottom: 3px;
+}
+.footer h6 {
+    font-size: 15px;
+    color:black;
+    letter-spacing: 2px;
+}
+
+.footer h6 a{
+    font-size: 20px;
+    color:black;
+    letter-spacing: 2px;
+}
